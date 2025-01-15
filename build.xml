@@ -1,1 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="TestForWebhooks" default="help" basedir=".">
+    <description>
+        Найпростіший build.xml, який нічого не робить.
+    </description>
 
+    <target name="help">
+        <echo>
+            Це приклад простого build.xml. Додайте цілі для виконання завдань.
+        </echo>
+    </target>
+</project>
