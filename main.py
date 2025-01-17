@@ -1,3 +1,0 @@
-It is a final test thet must be not sended in to discord I hope it will be passed
-and I whont to add some Designer (8)and Photo
-or not....
